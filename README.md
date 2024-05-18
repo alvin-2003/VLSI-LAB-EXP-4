@@ -1,41 +1,37 @@
-
-
-AIM: 
+# AIM: 
  To simulate and synthesis SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Xilinx ISE.
+ 
+#  APPARATUS REQUIRED:
+Vivado 2023.2
 
-APPARATUS REQUIRED:
+# LOGIC DIAGRAM
 
-Xilinx 14.7
-Spartan6 FPGA
-
-**LOGIC DIAGRAM**
-
-SR FLIPFLOP
+# SR FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/77fb7f38-5649-4778-a987-8468df9ea3c3)
 
 
-JK FLIPFLOP
+# JK FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
 
-T FLIPFLOP
+# T FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
 
 
-D FLIPFLOP
+# D FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
 
 
-COUNTER
+# COUNTER
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
 
 
   
-PROCEDURE:
+# PROCEDURE:
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
 STEP:2  Select the device family, device, package and speed.       
 STEP:3  Select new source in the New Project and select Verilog Module as the Source type.                       
@@ -232,4 +228,4 @@ endmodule
 ![321314073-9738870c-f3e1-40a5-87be-5a6cb680ca91](https://github.com/alvin-2003/VLSI-LAB-EXP-4/assets/163816866/9003f202-e261-463c-a9b0-9f32ba596a0f)
 
  # RESULT:
-Hence SR, JK, T, D - FLIPFLOP, COUNTER DESIGN are simulated and synthesised using Xilinx ISE.
+Hence SR, JK, T, D - FLIPFLOP, COUNTER DESIGN are simulated and synthesised using Vivad0 2023.
